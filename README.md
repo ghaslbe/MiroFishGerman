@@ -4,7 +4,7 @@
 
 <a href="https://trendshift.io/repositories/16144" target="_blank"><img src="https://trendshift.io/api/badge/repositories/16144" alt="666ghj%2FMiroFish | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-简洁通用的群体智能引擎，预测万物
+Einfache & universelle Schwarm-Intelligenz-Engine — alles vorhersagen
 </br>
 <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em>
 
@@ -16,33 +16,33 @@
 [![Docker](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/666ghj/MiroFish)
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](http://discord.gg/ePf5aPaHnA)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mirofish_ai)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mirofish_ai/)
+[![Discord](https://img.shields.io/badge/Discord-Beitreten-5865F2?style=flat-square&logo=discord&logoColor=white)](http://discord.gg/ePf5aPaHnA)
+[![X](https://img.shields.io/badge/X-Folgen-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mirofish_ai)
+[![Instagram](https://img.shields.io/badge/Instagram-Folgen-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mirofish_ai/)
 
-[English](./README.md) | [中文文档](./README-ZH.md) | [Deutsch](./README-DE.md)
+[English](./README-EN.md) | [中文文档](./README-ZH.md) | [Deutsch](./README.md)
 
 </div>
 
-## ⚡ Overview
+## ⚡ Überblick
 
-**MiroFish** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories — **rehearse the future in a digital sandbox, and win decisions after countless simulations**.
+**MiroFish** ist eine KI-Vorhersage-Engine der nächsten Generation, angetrieben durch Multi-Agenten-Technologie. Durch die Extraktion von Seed-Informationen aus der realen Welt (z. B. aktuelle Nachrichten, Gesetzesentwürfe oder Finanzsignale) wird automatisch eine hochpräzise digitale Parallelwelt konstruiert. In diesem Raum interagieren Tausende intelligenter Agenten mit eigenständigen Persönlichkeiten, Langzeitgedächtnis und Verhaltenslogik frei miteinander und durchlaufen soziale Evolution. Du kannst Variablen dynamisch aus einer „Gottesperspektive" injizieren, um zukünftige Entwicklungen präzise abzuleiten — **probt die Zukunft in einer digitalen Sandbox und gewinnt Entscheidungen nach zahllosen Simulationen**.
 
-> You only need to: Upload seed materials (data analysis reports or interesting novel stories) and describe your prediction requirements in natural language</br>
-> MiroFish will return: A detailed prediction report and a deeply interactive high-fidelity digital world
+> Du brauchst nur: Seed-Materialien hochladen (Datenanalyseberichte oder interessante Geschichten) und deine Vorhersageanforderungen in natürlicher Sprache beschreiben</br>
+> MiroFish liefert: Einen detaillierten Vorhersagebericht und eine tiefgreifend interaktive, hochpräzise digitale Welt
 
-### Our Vision
+### Unsere Vision
 
-MiroFish is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
+MiroFish widmet sich der Schaffung eines Schwarm-Intelligenz-Spiegels, der die Realität abbildet. Durch das Erfassen kollektiver Emergenz, ausgelöst durch individuelle Interaktionen, durchbrechen wir die Grenzen traditioneller Vorhersagen:
 
-- **At the Macro Level**: We are a rehearsal laboratory for decision-makers, allowing policies and public relations to be tested at zero risk
-- **At the Micro Level**: We are a creative sandbox for individual users — whether deducing novel endings or exploring imaginative scenarios, everything can be fun, playful, and accessible
+- **Auf der Makroebene**: Wir sind ein Probelabor für Entscheidungsträger, das Richtlinien und Öffentlichkeitsarbeit risikofrei testet
+- **Auf der Mikroebene**: Wir sind eine kreative Sandbox für einzelne Nutzer — ob Romanenden ableiten oder fantasievolle Szenarien erkunden, alles kann Spaß machen, spielerisch und zugänglich sein
 
-From serious predictions to playful simulations, we let every "what if" see its outcome, making it possible to predict anything.
+Von ernsthaften Vorhersagen bis hin zu spielerischen Simulationen lassen wir jedes „Was wäre wenn" sein Ergebnis sehen und machen es möglich, alles vorherzusagen.
 
-## 🌐 Live Demo
+## 🌐 Live-Demo
 
-Welcome to visit our online demo environment and experience a prediction simulation on trending public opinion events we've prepared for you: [mirofish-live-demo](https://666ghj.github.io/mirofish-demo/)
+Besuche unsere Online-Demo-Umgebung und erlebe eine Vorhersagesimulation zu aktuellen Ereignissen, die wir für dich vorbereitet haben: [mirofish-live-demo](https://666ghj.github.io/mirofish-demo/)
 
 ## 📸 Screenshots
 
@@ -63,136 +63,136 @@ Welcome to visit our online demo environment and experience a prediction simulat
 </table>
 </div>
 
-## 🎬 Demo Videos
+## 🎬 Demo-Videos
 
-### 1. Wuhan University Public Opinion Simulation + MiroFish Project Introduction
-
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1VYBsBHEMY/" target="_blank"><img src="./static/image/武大模拟演示封面.png" alt="MiroFish Demo Video" width="75%"/></a>
-
-Click the image to watch the complete demo video for prediction using BettaFish-generated "Wuhan University Public Opinion Report"
-</div>
-
-### 2. Dream of the Red Chamber Lost Ending Simulation
+### 1. Öffentlichkeitsmeinungs-Simulation der Wuhan-Universität + MiroFish-Projektvorstellung
 
 <div align="center">
-<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/红楼梦模拟推演封面.jpg" alt="MiroFish Demo Video" width="75%"/></a>
+<a href="https://www.bilibili.com/video/BV1VYBsBHEMY/" target="_blank"><img src="./static/image/武大模拟演示封面.png" alt="MiroFish Demo-Video" width="75%"/></a>
 
-Click the image to watch MiroFish's deep prediction of the lost ending based on hundreds of thousands of words from the first 80 chapters of "Dream of the Red Chamber"
+Klicke auf das Bild, um das vollständige Demo-Video zur Vorhersage mit dem BettaFish-generierten „Öffentlichkeitsmeinungsbericht der Wuhan-Universität" anzusehen
 </div>
 
-> **Financial Prediction**, **Political News Prediction** and more examples coming soon...
+### 2. Simulation des verlorenen Endes von „Der Traum der Roten Kammer"
 
-## 🔄 Workflow
+<div align="center">
+<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/红楼梦模拟推演封面.jpg" alt="MiroFish Demo-Video" width="75%"/></a>
 
-1. **Graph Building**: Seed extraction & Individual/collective memory injection & GraphRAG construction
-2. **Environment Setup**: Entity relationship extraction & Persona generation & Agent configuration injection
-3. **Simulation**: Dual-platform parallel simulation & Auto-parse prediction requirements & Dynamic temporal memory updates
-4. **Report Generation**: ReportAgent with rich toolset for deep interaction with post-simulation environment
-5. **Deep Interaction**: Chat with any agent in the simulated world & Interact with ReportAgent
+Klicke auf das Bild, um MiroFishs tiefe Vorhersage des verlorenen Endes auf Basis von Hunderttausenden von Wörtern aus den ersten 80 Kapiteln von „Der Traum der Roten Kammer" anzusehen
+</div>
 
-## 🚀 Quick Start
+> **Finanzielle Vorhersagen**, **Politische Nachrichtenvorhersagen** und weitere Beispiele folgen in Kürze...
 
-### Option 1: Source Code Deployment (Recommended)
+## 🔄 Arbeitsablauf
 
-#### Prerequisites
+1. **Graph aufbauen**: Seed-Extraktion & Injizierung von Individual-/Kollektivgedächtnis & GraphRAG-Aufbau
+2. **Umgebung einrichten**: Extraktion von Entitätsbeziehungen & Persona-Generierung & Agenten-Konfigurationsinjektion
+3. **Simulation**: Dual-Plattform-Parallelsimulation & automatische Analyse von Vorhersageanforderungen & dynamische Zeitspeicheraktualisierungen
+4. **Berichtsgenerierung**: ReportAgent mit umfangreichem Werkzeugsatz zur Tiefeninteraktion mit der Post-Simulations-Umgebung
+5. **Tiefe Interaktion**: Mit beliebigen Agenten in der simulierten Welt chatten & mit ReportAgent interagieren
 
-| Tool | Version | Description | Check Installation |
-|------|---------|-------------|-------------------|
-| **Node.js** | 18+ | Frontend runtime, includes npm | `node -v` |
-| **Python** | ≥3.11, ≤3.12 | Backend runtime | `python --version` |
-| **uv** | Latest | Python package manager | `uv --version` |
+## 🚀 Schnellstart
 
-#### 1. Configure Environment Variables
+### Option 1: Quellcode-Deployment (Empfohlen)
+
+#### Voraussetzungen
+
+| Werkzeug | Version | Beschreibung | Installation prüfen |
+|----------|---------|-------------|---------------------|
+| **Node.js** | 18+ | Frontend-Laufzeit, inkl. npm | `node -v` |
+| **Python** | ≥3.11, ≤3.12 | Backend-Laufzeit | `python --version` |
+| **uv** | Aktuell | Python-Paketmanager | `uv --version` |
+
+#### 1. Umgebungsvariablen konfigurieren
 
 ```bash
-# Copy the example configuration file
+# Beispiel-Konfigurationsdatei kopieren
 cp .env.example .env
 
-# Edit the .env file and fill in the required API keys
+# .env-Datei bearbeiten und erforderliche API-Schlüssel eintragen
 ```
 
-**Required Environment Variables:**
+**Erforderliche Umgebungsvariablen:**
 
 ```env
-# LLM API Configuration (supports any LLM API with OpenAI SDK format)
-# Recommended: Alibaba Qwen-plus model via Bailian Platform: https://bailian.console.aliyun.com/
-# High consumption, try simulations with fewer than 40 rounds first
-LLM_API_KEY=your_api_key
+# LLM-API-Konfiguration (unterstützt jede LLM-API im OpenAI-SDK-Format)
+# Empfohlen: Alibaba Qwen-plus-Modell über die Bailian-Plattform: https://bailian.console.aliyun.com/
+# Hoher Verbrauch – zuerst Simulationen mit weniger als 40 Runden ausprobieren
+LLM_API_KEY=dein_api_schluessel
 LLM_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
 LLM_MODEL_NAME=qwen-plus
 
-# Zep Cloud Configuration
-# Free monthly quota is sufficient for simple usage: https://app.getzep.com/
-ZEP_API_KEY=your_zep_api_key
+# Zep-Cloud-Konfiguration
+# Kostenlose monatliche Quote reicht für einfache Nutzung: https://app.getzep.com/
+ZEP_API_KEY=dein_zep_api_schluessel
 ```
 
-#### 2. Install Dependencies
+#### 2. Abhängigkeiten installieren
 
 ```bash
-# One-click installation of all dependencies (root + frontend + backend)
+# Alle Abhängigkeiten mit einem Klick installieren (Root + Frontend + Backend)
 npm run setup:all
 ```
 
-Or install step by step:
+Oder Schritt für Schritt installieren:
 
 ```bash
-# Install Node dependencies (root + frontend)
+# Node-Abhängigkeiten installieren (Root + Frontend)
 npm run setup
 
-# Install Python dependencies (backend, auto-creates virtual environment)
+# Python-Abhängigkeiten installieren (Backend, erstellt automatisch virtuelle Umgebung)
 npm run setup:backend
 ```
 
-#### 3. Start Services
+#### 3. Dienste starten
 
 ```bash
-# Start both frontend and backend (run from project root)
+# Frontend und Backend gleichzeitig starten (vom Projektstamm aus ausführen)
 npm run dev
 ```
 
-**Service URLs:**
+**Dienst-URLs:**
 - Frontend: `http://localhost:3000`
-- Backend API: `http://localhost:5001`
+- Backend-API: `http://localhost:5001`
 
-**Start Individually:**
+**Einzeln starten:**
 
 ```bash
-npm run backend   # Start backend only
-npm run frontend  # Start frontend only
+npm run backend   # Nur Backend starten
+npm run frontend  # Nur Frontend starten
 ```
 
-### Option 2: Docker Deployment
+### Option 2: Docker-Deployment
 
 ```bash
-# 1. Configure environment variables (same as source deployment)
+# 1. Umgebungsvariablen konfigurieren (wie beim Quellcode-Deployment)
 cp .env.example .env
 
-# 2. Pull image and start
+# 2. Image herunterladen und starten
 docker compose up -d
 ```
 
-Reads `.env` from root directory by default, maps ports `3000 (frontend) / 5001 (backend)`
+Liest standardmäßig `.env` aus dem Stammverzeichnis, mappt Ports `3000 (Frontend) / 5001 (Backend)`
 
-> Mirror address for faster pulling is provided as comments in `docker-compose.yml`, replace if needed.
+> Mirror-Adresse für schnelleres Herunterladen ist als Kommentar in `docker-compose.yml` angegeben, bei Bedarf ersetzen.
 
-## 📬 Join the Conversation
+## 📬 Mitmachen
 
 <div align="center">
-<img src="./static/image/QQ群.png" alt="QQ Group" width="60%"/>
+<img src="./static/image/QQ群.png" alt="QQ-Gruppe" width="60%"/>
 </div>
 
 &nbsp;
 
-The MiroFish team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **mirofish@shanda.com**
+Das MiroFish-Team sucht Vollzeit-/Praktikumsstellen. Wenn du dich für Multi-Agenten-Simulationen und LLM-Anwendungen interessierst, sende deinen Lebenslauf gerne an: **mirofish@shanda.com**
 
-## 📄 Acknowledgments
+## 📄 Danksagungen
 
-**MiroFish has received strategic support and incubation from Shanda Group!**
+**MiroFish wurde von der Shanda Group strategisch unterstützt und inkubiert!**
 
-MiroFish's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**, We sincerely thank the CAMEL-AI team for their open-source contributions!
+MiroFishs Simulationsengine basiert auf **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**. Wir danken dem CAMEL-AI-Team herzlich für ihre Open-Source-Beiträge!
 
-## 📈 Project Statistics
+## 📈 Projektstatistiken
 
 <a href="https://www.star-history.com/#666ghj/MiroFish&type=date&legend=top-left">
  <picture>
